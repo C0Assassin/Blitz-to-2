@@ -14,9 +14,10 @@ Current song progress will be listed here on this splash page:
 *  Elton John - I'm Still Standing
 *  P!nk - Raise Your Glass
 *  Blink-182 - Always
+*  Fun. ft. Janelle Monáe - We Are Young
 
 ## Converts done by:
 *  C0 Assassin: Shine, Cult of Personality, Bang Your Head
 *  AnxiousQT: Moves Like Jagger (lipsync), I'm Still Standing
 *  Underoath628: Moves Like Jagger (venue), Always
-*  Anthoalreadyppoped: P!nk - Raise Your Glass
+*  Anthoalreadyppoped: Raise Your Glass, We Are Young
