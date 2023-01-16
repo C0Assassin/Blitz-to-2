@@ -6,11 +6,12 @@ Individual convert credits will be listed below.
 
 Current song progress will be listed here on this splash page:
 
-## Songs Completed (3/23):
+## Songs Completed (5/23):
 *  Collective Soul - Shine
 *  Living Colour - Cult of Personality
 *  Quiet Riot - Bang Your Head (Metal Health)
 *  Maroon 5 - Moves Like Jagger
+*  Elton John - I'm Still Standing
 
 
 ## Converts done by:
