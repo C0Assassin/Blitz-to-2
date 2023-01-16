@@ -1,2 +1,8 @@
 # Blitz-to-2
-Complete recreation of Rock Band Blitz's venues/animations/lipsyncing in Rock Band 2's midi/milo format.
+
+Welcome to the RB Blitz to RB2 repo.
+Current song progress will be listed here on this splash page:
+
+## Songs Completed (2/23):
+*  Living Colour - Cult of Personality
+*  Quiet Riot - Bang Your Head (Metal Health)
