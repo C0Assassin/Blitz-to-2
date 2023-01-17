@@ -6,7 +6,7 @@ Individual convert credits will be listed below.
 
 Current song progress will be listed here on this splash page:
 
-## Songs Completed (7/23):
+## Songs Completed (8/23):
 *  Collective Soul - Shine
 *  Living Colour - Cult of Personality
 *  Quiet Riot - Bang Your Head (Metal Health)
