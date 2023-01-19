@@ -6,7 +6,7 @@ Individual convert credits will be listed below.
 
 Current song progress will be listed here on this splash page:
 
-## Songs Completed (8/23):
+## Songs Completed (9/23):
 *  Collective Soul - Shine
 *  Living Colour - Cult of Personality
 *  Quiet Riot - Bang Your Head (Metal Health)
@@ -15,9 +15,11 @@ Current song progress will be listed here on this splash page:
 *  P!nk - Raise Your Glass
 *  Blink-182 - Always
 *  Fun. ft. Janelle Monáe - We Are Young
+*  Iron Maiden - The Wicker Man
+
 
 ## Converts done by:
 *  C0 Assassin: Shine, Cult of Personality, Bang Your Head
 *  AnxiousQT: Moves Like Jagger (lipsync), I'm Still Standing
-*  Underoath628: Moves Like Jagger (venue), Always
+*  Underoath628: Moves Like Jagger (venue), Always, The Wicker Man
 *  Anthoalreadyppoped: Raise Your Glass, We Are Young
