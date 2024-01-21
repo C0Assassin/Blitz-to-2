@@ -6,7 +6,7 @@ Individual convert credits will be listed below.
 
 Current song progress will be listed here on this splash page:
 
-## Songs Completed (9/23):
+## Songs Completed (10/23):
 *  Collective Soul - Shine
 *  Living Colour - Cult of Personality
 *  Quiet Riot - Bang Your Head (Metal Health)
@@ -16,6 +16,7 @@ Current song progress will be listed here on this splash page:
 *  Blink-182 - Always
 *  Fun. ft. Janelle Monáe - We Are Young
 *  Iron Maiden - The Wicker Man
+*  Shinedown - Diamond Eyes (Boom-Lay Boom-Lay Boom)
 
 
 ## Converts done by:
@@ -23,3 +24,4 @@ Current song progress will be listed here on this splash page:
 *  AnxiousQT: Moves Like Jagger (lipsync), I'm Still Standing
 *  Underoath628: Moves Like Jagger (venue), Always, The Wicker Man
 *  Anthoalreadyppoped: Raise Your Glass, We Are Young
+*  Joeycrick: Diamond Eyes (Boom-Lay Boom-Lay Boom)
