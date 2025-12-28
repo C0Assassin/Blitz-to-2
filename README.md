@@ -6,23 +6,27 @@ Individual convert credits will be listed below.
 
 Current song progress will be listed here on this splash page:
 
-## Songs Completed (10/23):
+## Songs Completed (14/23):
 *  Avenged Sevenfold - So Far Away
-*  Collective Soul - Shine
-*  Living Colour - Cult of Personality
-*  Quiet Riot - Bang Your Head (Metal Health)
-*  Maroon 5 - Moves Like Jagger
-*  Elton John - I'm Still Standing
-*  P!nk - Raise Your Glass
 *  Blink-182 - Always
+*  Collective Soul - Shine
+*  Elton John - I'm Still Standing
 *  Fun. ft. Janelle Monáe - We Are Young
 *  Iron Maiden - The Wicker Man
+*  Kool & the Gang - Jungle Boogie
+*  Living Colour - Cult of Personality
+*  Maroon 5 ft. Christina Aguilera - Moves Like Jagger
+*  My Chemical Romance - Sing
+*  P!nk - Raise Your Glass
+*  Quiet Riot - Bang Your Head (Metal Health)
 *  Shinedown - Diamond Eyes (Boom-Lay Boom-Lay Boom)
+*  Tears for Fears - Shout
 
 
 ## Converts done by:
-*  C0 Assassin: Shine, Cult of Personality, Bang Your Head
-*  AnxiousQT: Moves Like Jagger (lipsync), I'm Still Standing
-*  Underoath628: Moves Like Jagger (venue), Always, The Wicker Man
 *  Anthoalreadyppoped: Raise Your Glass, We Are Young
-*  Joeycrick: Diamond Eyes (Boom-Lay Boom-Lay Boom)
+*  AnxiousQT: I'm Still Standing, Moves Like Jagger (lipsync)
+*  C0 Assassin: Bang Your Head, Cult of Personality, Diamond Eyes, Shine, So Far Away
+*  D-97: Jungle Boogie
+*  Joey Crick: Shout, Sing
+*  Underoath628:  Always, Moves Like Jagger (venue), The Wicker Man
